@@ -70,7 +70,7 @@ layout: home
 <p align="center" width="100%">
 	<b>Transparent Windows with Complex Regions</b><br/>
 	<p></p>
-	<img src="assets/gui_5.png" width="100%" />
+	<img src="assets/GUI_5.png" width="100%" />
 </p>
 
 ***
