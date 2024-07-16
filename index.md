@@ -7,9 +7,9 @@ layout: home
 <p align="center" width="100%">
 	Research OS written from scratch<br/>
 	Retro look, new code.<br/><br/>
-	<img src="assets/dOS1_trim.png" width="100%" />
+	<img src="assets/scr_3.png" width="100%" />
 <hr>
-	<img src="assets/demos_trim.png" width="100%" />
+	<img src="assets/scr_2.png" width="100%" />
 <hr>
 	<img src="assets/scr_1.png" width="100%" />
 </p>
@@ -70,7 +70,7 @@ layout: home
 <p align="center" width="100%">
 	<b>Transparent Windows with Complex Regions</b><br/>
 	<p></p>
-	<img src="assets/GUI_5.png" width="100%" />
+	<img src="assets/gui_1.png" width="100%" />
 </p>
 
 ***
@@ -166,10 +166,10 @@ layout: home
 + Hypervisor: Intel VMX
 
 <p align="center" width="100%">
-	<img src="assets/HW_11.jpg" width="100%" />
+	<img src="assets/desktop_1.jpg" width="100%" />
 	<p></p>
-	<img src="assets/laptop_2.jpg" width="49.5%" />
-	<img src="assets/laptop_31.jpg" width="49.5%" />
+	<img src="assets/laptop_2.jpg" width="49%" />
+	<img src="assets/laptop_31.jpg" width="49%" />
 </p>
 
 ***
