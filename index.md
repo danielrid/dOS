@@ -5,7 +5,7 @@ layout: home
 
 <p align="center" width="100%">
 	Research OS written from scratch<br/>
-	Retro look, new code.<br/><br/>
+	Retro look, new code<br/><br/>
 	<img src="assets/scr_3.png" width="100%" />
 <hr>
 	<img src="assets/scr_2.png" width="100%" />
@@ -98,7 +98,7 @@ layout: home
 ## Win32 Subsystem
 + Run Windows applications
 	- Apps work on dOS and Windows
-	- Terminal, Notepad, Doom3, Nestor
+	- Most dOS apps are standard Windows apps!
 + Native performance
 	- Win32 syscalls translated to native APIs
 + Supported APIs
@@ -144,13 +144,13 @@ layout: home
 + Development Tools
 	- GCC, MAKE, NASM/YASM
 	- C# Native AOT
-	- Python3
+	- Python 3
 	- clang, lldb
 	- Remote debugging with VS Code (LLDB)
 	
 <p align="center" width="100%">
 	<b>Development Tools<br/>
-	dOS compiling itself, Python3, C#</b><br/>
+	dOS compiling itself, Python 3, C#</b><br/>
 	<p></p>
 	<img src="assets/dev_1.png" width="100%" />
 </p>
@@ -167,7 +167,8 @@ layout: home
 
 <p align="center" width="100%">
 	<img src="assets/desktop_1.jpg" width="100%" />
-	<p></p>
+</p>
+<p align="center" width="100%">
 	<img src="assets/laptop_2.jpg" width="49%" />
 	<img src="assets/laptop_31.jpg" width="49%" />
 </p>
