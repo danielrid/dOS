@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-<a id="TOP"></a>
 <h1 align="center">dOS</h1>
 
 <p align="center" width="100%">
@@ -15,6 +14,7 @@ layout: home
 </p>
 ***
 
+<a id="top"></a>
 ## OS Features
 + [Modern 64-bit Kernel](#kernel-features)
 + [Graphical User Interface](#graphical-user-interface)
@@ -188,5 +188,5 @@ layout: home
 		  right: 5%;
 		  margin: 0;
 ">
-[(🠉 TOP 🠉)](#top)
+[(&#11105; TOP &#11105;)](#top)
 </span>
