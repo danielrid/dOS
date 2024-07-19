@@ -177,6 +177,14 @@ layout: home
 ***
 <h2 align="center" id="screenshots">Screenshots and Videos</h2>
 ***
+<p align="center" width="100%">
+	<b>DirectX 12 Raytracing</b><br/>
+	{% include youtube.html id="ArRCZhUg3Rk?rel=0&loop=1&playlist=ArRCZhUg3Rk" %}  
+</p>
+<p align="center" width="100%">
+	<b>Doom 3: BFG Edition</b><br/>
+	{% include youtube.html id="46fWmfxIx_U?rel=0&loop=1&playlist=46fWmfxIx_U" %}  
+</p>
 
 <span style="
 		  width: 80px;
