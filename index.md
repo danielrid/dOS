@@ -21,13 +21,14 @@ layout: home
 + [3D Graphics stack (DirectX 12, Vulkan, OpenGL)](#3d-graphics-apis)
 + Network stack (TCP, UDP, IP, DHCP)
 + USB stack (USB 3.0, USB 2.0)
-+ Audio stack
++ Audio stack (Server, Mixer)
 + [Win32 Subsystem (Run Windows applications!)](#win32-subsystem)
 + [Virtualization Hypervisor (Type-2)](#virtualization-hypervisor)
 + [Terminal and Command Line Utilities](#terminal-and-command-line)
 + FAT32 and NTFS  
 
-#### [Screenshots and Videos](#screenshots)
+<h4 style="margin-bottom:0px"><a href="#hardware">Supported Hardware</a></h4>
+<h4><a href="#screenshots">Screenshots and Videos</a></h4>
 ***
 ## Kernel Features
 + Pre-emptive multithreaded kernel
@@ -87,7 +88,7 @@ layout: home
 	<img src="assets/dx12_1.png" width="100%" />
 </p>
 <p align="center" width="100%">
-	<b>Doom 3 BFG (OpenGL)</b><br/>
+	<b>Doom 3: BFG (OpenGL)</b><br/>
 	<p></p>
 	<img src="assets/doom3_1.png" width="100%" />
 	<img src="assets/doom3_4.png" width="100%" />
@@ -156,7 +157,7 @@ layout: home
 </p>
 ***
 
-## Supported Hardware
+<h2 id="hardware">Supported Hardware</h2>
 + CPU: x64 / x86
 + PCI, MSI, MSI-X
 + Disk: AHCI, IDE
