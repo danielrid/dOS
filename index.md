@@ -185,6 +185,14 @@ layout: home
 	<b>Doom 3: BFG Edition</b><br/>
 	{% include youtube.html id="46fWmfxIx_U?rel=0&loop=1&playlist=46fWmfxIx_U" %}  
 </p>
+<p align="center" width="100%">
+	<b>Demos</b><br/>
+	{% include youtube.html id="clI-W78U8s4?rel=0&loop=1&playlist=clI-W78U8s4" %}  
+</p>
+<p align="center" width="100%">
+	<b>Self-hosting (compiling itself)</b><br/>
+	{% include youtube.html id="LQxa1k08zMw?rel=0&loop=1&playlist=LQxa1k08zMw" %}  
+</p>
 
 <span style="
 		  width: 80px;
