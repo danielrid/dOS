@@ -123,12 +123,12 @@ layout: home
 + Supported OS: Linux, Windows, FreeDOS
 	
 <p align="center" width="100%">
-	<b>dOS running Ubuntu 64bit</b><br/>
+	<b>Ubuntu 64bit VM running on dOS</b><br/>
 	<p></p>
 	<img src="assets/ubuntu_1.png" width="100%" />
 </p>
 <p align="center" width="100%">
-	<b>dOS running Windows</b><br/>
+	<b>Windows VM running on dOS</b><br/>
 	<p></p>
 	<img src="assets/win_1.png" width="100%" />
 </p>
@@ -198,5 +198,5 @@ layout: home
 		  right: 5%;
 		  margin: 0;
 ">
-[(&#11105; TOP &#11105;)](#top)
+[(&uarr; TOP &uarr;)](#top)
 </span>
