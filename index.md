@@ -193,6 +193,14 @@ layout: home
 	<b>Self-hosting (compiling itself)</b><br/>
 	{% include youtube.html id="LQxa1k08zMw?rel=0&loop=1&playlist=LQxa1k08zMw" %}  
 </p>
+***
+<p align="center" width="100%">
+	<img src="assets/scr_1.png" width="100%" />
+	<br/><br/>
+	<img src="assets/scr_2.png" width="100%" />
+	<br/><br/>
+	<img src="assets/scr_3.png" width="100%" />
+</p>
 
 <span style="
 		  width: 80px;
