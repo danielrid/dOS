@@ -12,6 +12,7 @@ layout: home
 <hr>
 	<img src="assets/scr_1.png" width="100%" />
 </p>
+
 ***
 
 <a id="top"></a>
@@ -28,7 +29,7 @@ layout: home
 + FAT32 and NTFS  
 
 <h4 style="margin-bottom:0px"><a href="#hardware">Supported Hardware</a></h4>
-<h4><a href="#screenshots">Screenshots and Videos</a></h4>
+<h4><a href="#screenshots">Videos and Screenshots</a></h4>
 ***
 ## Kernel Features
 + Pre-emptive multithreaded kernel
@@ -132,6 +133,7 @@ layout: home
 	<p></p>
 	<img src="assets/win_1.png" width="100%" />
 </p>
+
 ***
 
 ## Terminal and Command Line
@@ -155,6 +157,7 @@ layout: home
 	<p></p>
 	<img src="assets/dev_1.png" width="100%" />
 </p>
+
 ***
 
 <h2 id="hardware">Supported Hardware</h2>
@@ -175,8 +178,12 @@ layout: home
 </p>
 
 ***
-<h2 align="center" id="screenshots">Screenshots and Videos</h2>
+
+<h2 align="center" style="margin-bottom:2px" id="screenshots">Videos and Screenshots</h2>
+<h5 align="center">(Please reload the page if any videos appear unavailable)</h5>
+
 ***
+
 <p align="center" width="100%">
 	<b>DirectX 12 Raytracing</b><br/>
 	{% include youtube.html id="ArRCZhUg3Rk?rel=0&loop=1&playlist=ArRCZhUg3Rk" %}  
