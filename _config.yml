@@ -2,8 +2,8 @@ title: dOS
 author: Daniel Ridner
 description: >- # this means to ignore newlines until "baseurl:"
   Copyright (c) 2024 Daniel Ridner
-baseurl: # the subpath of your site, e.g. /blog
-url: "https://danielrid.github.io/dOS" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: #
+url: "https://danielrid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: jekyll/minima
