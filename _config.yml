@@ -1,5 +1,5 @@
 title: dOS
-email: your-email@example.com
+author: Daniel Ridner
 description: >- # this means to ignore newlines until "baseurl:"
   Copyright (c) 2024 Daniel Ridner
 baseurl: # the subpath of your site, e.g. /blog
@@ -16,6 +16,8 @@ minima:
 header_pages:
   - about.md 
   
+google_analytics: G-RF7WBN0NYS
+
   # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
