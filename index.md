@@ -79,8 +79,8 @@ layout: home
 
 ## 3D Graphics APIs
 + DirectX 12 + Raytracing
++ Vulkan 1.3 + Raytracing
 + DirectX 11
-+ Vulkan
 + OpenGL
 
 <p align="center" width="100%">
@@ -179,8 +179,8 @@ layout: home
 
 ***
 
-<h2 align="center" style="margin-bottom:2px" id="screenshots">Videos and Screenshots</h2>
-<h5 align="center">(Please reload the page if any videos appear unavailable)</h5>
+<h2 align="center" style="margin-bottom:2px" id="screenshots"><b>Videos and Screenshots</b></h2>
+<h3 align="center">(Please reload the page if any videos appear unavailable)</h3>
 
 ***
 
