@@ -6,7 +6,7 @@ layout: home
 <p align="center" width="100%">
 	Research OS written from scratch<br/>
 	Retro look, new code<br/><br/>
-	<img src="assets/scr_3.png" width="100%" />
+	<img src="assets/scr_4.png" width="100%" />
 <hr>
 	<img src="assets/scr_2.png" width="100%" />
 <hr>
@@ -39,7 +39,7 @@ layout: home
 	- Mapped files and shared memory
 	- Automatic background paging (swapper)
 + Process and memory protection (Kernel, User)
-	- Exception Handling (try-catch)
+	- Exception Handling (SEH, custom, try-catch)
 + Virtual file systems with symbolic links
 	- Infinite file system cache
 	- Pipes and interprocess communication (IPC)
@@ -63,6 +63,7 @@ layout: home
 
 ## Graphical User Interface
 + Fast Window Manager
++ DPI Scaling
 + Shell and File Explorer
 + Native UI controls and menus
 + Optimized AVX/SSE drawing
@@ -163,9 +164,10 @@ layout: home
 <h2 id="hardware">Supported Hardware</h2>
 + CPU: x64 / x86
 + PCI, MSI, MSI-X
++ Boot: UEFI, BIOS
 + Disk: AHCI, IDE
 + USB: XHCI (3.0), EHCI (2.0)
-+ Network: Intel E1000, Broadcom (BCM5722D)
++ Network: Intel E1000, Realtek 8169, Broadcom (BCM5722D)
 + Sound: Intel HDA, Ensoniq ES3171
 + Hypervisor: Intel VMX
 
@@ -205,6 +207,10 @@ layout: home
 	<img src="assets/scr_1.png" width="100%" />
 	<br/><br/>
 	<img src="assets/scr_2.png" width="100%" />
+	<br/><br/>
+	<img src="assets/dos_commander.png" width="100%" />
+	<br/><br/>
+	<img src="assets/scr_4.png" width="100%" />
 	<br/><br/>
 	<img src="assets/scr_3.png" width="100%" />
 </p>
