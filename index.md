@@ -127,12 +127,12 @@ layout: home
 <p align="center" width="100%">
 	<b>Ubuntu 64bit VM running on dOS</b><br/>
 	<p></p>
-	<img src="assets/ubuntu_1.png" width="100%" />
+	<img src="assets/ubuntu_2.png" width="100%" />
 </p>
 <p align="center" width="100%">
 	<b>Windows VM running on dOS</b><br/>
 	<p></p>
-	<img src="assets/win_1.png" width="100%" />
+	<img src="assets/win_2.png" width="100%" />
 </p>
 
 ***
