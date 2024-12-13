@@ -39,7 +39,7 @@ layout: home
 	- Mapped files and shared memory
 	- Automatic background paging (swapper)
 + Process and memory protection (Kernel, User)
-	- Exception Handling (SEH, custom, try-catch)
++ Exception Handling (SEH, custom, try-catch)
 + Virtual file systems with symbolic links
 	- Infinite file system cache
 	- Pipes and interprocess communication (IPC)
