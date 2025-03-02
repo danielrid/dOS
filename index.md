@@ -28,8 +28,8 @@ layout: home
 + [Terminal and Command Line Utilities](#terminal-and-command-line)
 + FAT32 and NTFS  
 
-<h4 style="margin-bottom:0px"><a href="#hardware">Supported Hardware</a></h4>
-<h4><a href="#screenshots">Videos and Screenshots</a></h4>
+<h4 style="margin-bottom:0px"><a href="#screenshots">Videos and Screenshots</a></h4>
+<h4><a href="#hardware">Supported Hardware</a></h4>
 ***
 ## Kernel Features
 + Pre-emptive multithreaded kernel
@@ -182,7 +182,6 @@ layout: home
 ***
 
 <h2 align="center" style="margin-bottom:2px" id="screenshots"><b>Videos and Screenshots</b></h2>
-<h3 align="center">(Please reload the page if any videos appear unavailable)</h3>
 
 ***
 
