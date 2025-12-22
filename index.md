@@ -107,7 +107,7 @@ layout: home
 + Supported APIs
 	- UI: Win32 controls (partial)
 	- 3D: DirectX, Vulkan, OpenGL
-	- Audio: XAudio2
+	- Audio: XAudio2, WinMM
 	- Network: Winsock2
 + Win32 and Win64 support
 
