@@ -8,9 +8,9 @@ layout: home
 	Retro look, new code<br/><br/>
 	<img src="assets/scr_4.png" width="100%" />
 <hr>
-	<img src="assets/scr_2.png" width="100%" />
-<hr>
 	<img src="assets/scr_1.png" width="100%" />
+<hr>
+	<img src="assets/scr_2.png" width="100%" />
 </p>
 
 ***
@@ -66,7 +66,7 @@ layout: home
 + DPI Scaling
 + Shell and File Explorer
 + Native UI controls and menus
-+ Optimized AVX/SSE drawing
++ Optimized Rendering (AVX512 / AVX / SSE)
 + Transparent Windows
 + Window Regions
 + Themes
@@ -164,8 +164,8 @@ layout: home
 <h2 id="hardware">Supported Hardware</h2>
 + CPU: x64 / x86
 + PCI, MSI, MSI-X
-+ Boot: UEFI, BIOS
-+ Disk: AHCI, IDE
++ Boot: UEFI, BIOS, TFTP
++ Disk: NVME, AHCI, IDE
 + USB: XHCI (3.0), EHCI (2.0)
 + Network: Intel E1000, Realtek 8169, Broadcom (BCM5722D)
 + Sound: Intel HDA, Ensoniq ES3171
