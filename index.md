@@ -26,7 +26,7 @@ layout: home
 + [Win32 Subsystem (Run Windows applications!)](#win32-subsystem)
 + [Virtualization Hypervisor (Type-2)](#virtualization-hypervisor)
 + [Terminal and Command Line Utilities](#terminal-and-command-line)
-+ FAT32 and NTFS  
++ FAT32, NTFS, ISO 9660
 
 <h4 style="margin-bottom:0px"><a href="#screenshots">Videos and Screenshots</a></h4>
 <h4><a href="#hardware">Supported Hardware</a></h4>
