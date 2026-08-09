@@ -115,6 +115,7 @@ layout: home
 
 ## Virtualization Hypervisor
 + Type-2 Hypervisor
++ Intel VMX and AMD SVM support
 + Emulated HW
 	- APIC, PIC, PIT, CMOS
 	- IDE Controllers
@@ -146,10 +147,10 @@ layout: home
 	- Pipes
 	- Batch files
 + Development Tools
-	- GCC, MAKE, NASM/YASM
+	- CLANG, GCC, MAKE, NASM/YASM
 	- C# Native AOT
 	- Python 3
-	- clang, lldb
+	- LLDB debugger
 	- Remote debugging with VS Code (LLDB)
 	
 <p align="center" width="100%">
@@ -167,9 +168,9 @@ layout: home
 + Boot: UEFI, BIOS, TFTP
 + Disk: NVME, AHCI, IDE
 + USB: XHCI (3.0), EHCI (2.0)
-+ Network: Intel E1000, Realtek 8169, Broadcom (BCM5722D)
++ Network: Intel E1000, Realtek (8169/8125), Broadcom (BCM5722D)
 + Sound: Intel HDA, Ensoniq ES3171
-+ Hypervisor: Intel VMX
++ Hypervisor: Intel VMX, AMD SVM
 
 <p align="center" width="100%">
 	<img src="assets/desktop_1.jpg" width="100%" />
