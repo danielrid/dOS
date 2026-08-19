@@ -19,7 +19,8 @@ layout: home
 ## OS Features
 + [Modern 64-bit Kernel](#kernel-features)
 + [Graphical User Interface](#graphical-user-interface)
-+ [3D Graphics Stack (DirectX 12, Vulkan, OpenGL)](#3d-graphics-apis)
++ [3D Graphics Stack (DirectX 12, Vulkan, OpenGL)](#graphics-and-compute-apis)
++ [Compute and Machine Learning Stack (CUDA)](#graphics-and-compute-apis)
 + Network Stack (TCP, UDP, IPv4/IPv6, DHCP)
 + USB Stack (USB 3.0, USB 2.0)
 + Audio Stack (Server, Mixer)
@@ -79,11 +80,19 @@ layout: home
 
 ***
 
-## 3D Graphics APIs
+## Graphics and Compute APIs
+
+**Graphics**
 + DirectX 12 + Raytracing
 + Vulkan 1.3 + Raytracing
 + DirectX 11
 + OpenGL 4.6+
+
+**Compute and Machine Learning**
++ CUDA 12.9 (Native / Driver API)
++ CUDA Runtime (CUDART)
++ cuBLAS
++ cuDNN
 
 <p align="center" width="100%">
 	<b>DirectX 12 (Raytracing)</b><br/>
@@ -108,6 +117,7 @@ layout: home
 + Supported APIs
 	- UI: Win32 controls (partial)
 	- 3D: DirectX, Vulkan, OpenGL
+	- Compute / ML: CUDA
 	- Audio: XAudio2, WinMM
 	- Network: Winsock2
 	- Event tracing (ETW)
