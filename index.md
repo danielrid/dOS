@@ -26,7 +26,7 @@ layout: home
 + [Win32 Subsystem (Run Windows applications!)](#win32-subsystem)
 + [Virtualization Hypervisor (Type-2)](#virtualization-hypervisor)
 + [Terminal and Command-Line Utilities](#terminal-and-command-line)
-+ File Systems: FAT32 (R/W), NTFS (R/W), ISO 9660
++ FAT32 (R/W), NTFS (R/W), ISO 9660
 
 <h4 style="margin-bottom:0px"><a href="#screenshots">Videos and Screenshots</a></h4>
 <h4><a href="#hardware">Supported Hardware</a></h4>
@@ -40,7 +40,7 @@ layout: home
 	- Automatic background paging (swapper)
 + Process and memory protection (kernel and user mode)
 + Exception handling (SEH, custom, try-catch)
-+ Virtual file system (VFS) layer with symbolic links
++ Virtual file systems with symbolic links
 	- Infinite file system cache
 	- Pipes and interprocess communication (IPC)
 	- Mountable and networked file systems
@@ -54,6 +54,7 @@ layout: home
 	- Loadable drivers and plugins
 + WOW64: 32-bit processes on 64-bit systems
 + Kernel profiling
++ Event tracing (ETW)
 + Debugging
 	- Breakpoints and stack traces
 	- Symbols and source-level debugging (PDB)
@@ -109,6 +110,7 @@ layout: home
 	- 3D: DirectX, Vulkan, OpenGL
 	- Audio: XAudio2, WinMM
 	- Network: Winsock2
+	- Event tracing (ETW)
 + Win32 and Win64 support
 
 ***
@@ -147,7 +149,8 @@ layout: home
 	- Pipes
 	- Batch files
 + Development tools
-	- Clang, GCC, Make, NASM/YASM/MASM
+	- Clang, GCC, Make, NMAKE
+	- NASM, YASM, MASM
 	- C# Native AOT
 	- Python 3
 	- LLDB debugger
@@ -168,7 +171,10 @@ layout: home
 + Boot: UEFI, BIOS, Network (PXE/TFTP)
 + Disk: NVMe, AHCI, IDE
 + USB: xHCI (3.0), EHCI (2.0)
-+ Network: Intel (E1000/E1000e), Realtek (8169/8125), Broadcom (BCM5722D)
++ Network
+	- Realtek (8169/8125)
+	- Intel (E1000/E1000e)
+	- Broadcom (BCM5722D)
 + Sound: Intel HDA, Ensoniq ES1371
 + Hypervisor: Intel VMX, AMD SVM
 
