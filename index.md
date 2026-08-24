@@ -105,6 +105,11 @@ layout: home
 	<img src="assets/doom3_1.png" width="100%" />
 	<img src="assets/doom3_4.png" width="100%" />
 </p>
+<p align="center" width="100%">
+	<b>Volumetric Tracer (CUDA)</b><br/>
+	<p></p>
+	<img src="assets/CudaVolumetricTracer.png" width="100%" />
+</p>
 
 ***
 
@@ -221,6 +226,8 @@ layout: home
 ***
 <p align="center" width="100%">
 	<img src="assets/scr_1.png" width="100%" />
+	<br/><br/>
+	<img src="assets/CudaVolumetricTracer.png" width="100%" />
 	<br/><br/>
 	<img src="assets/scr_2.png" width="100%" />
 	<br/><br/>

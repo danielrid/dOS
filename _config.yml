@@ -1,7 +1,7 @@
 title: dOS
 author: Daniel Ridner
 description: >- # this means to ignore newlines until "baseurl:"
-  Copyright (c) 2024 Daniel Ridner
+  Copyright (c) 2024-2026 Daniel Ridner
 baseurl: #
 url: "https://danielrid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
